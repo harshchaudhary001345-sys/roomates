@@ -1,19 +1,19 @@
-# @babel/plugin-transform-react-jsx-source
+# @babel/runtime
 
-> Add a __source prop to all JSX Elements
+> babel's modular runtime helpers
 
-See our website [@babel/plugin-transform-react-jsx-source](https://babeljs.io/docs/babel-plugin-transform-react-jsx-source) for more information.
+See our website [@babel/runtime](https://babeljs.io/docs/babel-runtime) for more information.
 
 ## Install
 
 Using npm:
 
 ```sh
-npm install --save-dev @babel/plugin-transform-react-jsx-source
+npm install --save @babel/runtime
 ```
 
 or using yarn:
 
 ```sh
-yarn add @babel/plugin-transform-react-jsx-source --dev
+yarn add @babel/runtime
 ```
